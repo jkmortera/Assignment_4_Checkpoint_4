@@ -1,0 +1,246 @@
+,Director,Series_Title,Released_Year,Primary_Genre
+1,Francis Ford Coppola,The Godfather,1972,Crime
+2,Christopher Nolan,The Dark Knight,2008,Action
+3,Francis Ford Coppola,The Godfather: Part II,1974,Crime
+4,Sidney Lumet,12 Angry Men,1957,Crime
+5,Peter Jackson,The Lord of the Rings: The Return of the King,2003,Action
+6,Quentin Tarantino,Pulp Fiction,1994,Crime
+7,Steven Spielberg,Schindler's List,1993,Biography
+8,Christopher Nolan,Inception,2010,Action
+9,David Fincher,Fight Club,1999,Drama
+10,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,2001,Action
+11,Robert Zemeckis,Forrest Gump,1994,Drama
+12,Sergio Leone,"Il buono, il brutto, il cattivo",1966,Western
+13,Peter Jackson,The Lord of the Rings: The Two Towers,2002,Action
+15,Martin Scorsese,Goodfellas,1990,Biography
+21,Christopher Nolan,Interstellar,2014,Adventure
+23,Hayao Miyazaki,Sen to Chihiro no kamikakushi,2001,Animation
+24,Steven Spielberg,Saving Private Ryan,1998,Drama
+27,David Fincher,Se7en,1995,Crime
+31,Akira Kurosawa,Shichinin no samurai,1954,Action
+36,Christopher Nolan,The Prestige,2006,Drama
+37,Martin Scorsese,The Departed,2006,Crime
+38,Roman Polanski,The Pianist,2002,Biography
+39,Ridley Scott,Gladiator,2000,Action
+44,James Cameron,Terminator 2: Judgment Day,1991,Action
+47,Robert Zemeckis,Back to the Future,1985,Adventure
+48,Sergio Leone,Once Upon a Time in the West,1968,Western
+49,Alfred Hitchcock,Psycho,1960,Horror
+51,Charles Chaplin,Modern Times,1936,Comedy
+52,Charles Chaplin,City Lights,1931,Comedy
+62,Quentin Tarantino,Django Unchained,2012,Drama
+63,Christopher Nolan,The Dark Knight Rises,2012,Action
+69,Christopher Nolan,Memento,2000,Mystery
+70,Hayao Miyazaki,Mononoke-hime,1997,Animation
+71,Sergio Leone,Once Upon a Time in America,1984,Crime
+72,Steven Spielberg,Raiders of the Lost Ark,1981,Action
+73,Stanley Kubrick,The Shining,1980,Drama
+74,Francis Ford Coppola,Apocalypse Now,1979,Drama
+75,Ridley Scott,Alien,1979,Horror
+77,Akira Kurosawa,Tengoku to jigoku,1963,Crime
+78,Stanley Kubrick,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy
+79,Billy Wilder,Witness for the Prosecution,1957,Crime
+80,Stanley Kubrick,Paths of Glory,1957,Drama
+81,Alfred Hitchcock,Rear Window,1954,Mystery
+82,Billy Wilder,Sunset Blvd.,1950,Drama
+83,Charles Chaplin,The Great Dictator,1940,Comedy
+90,Denis Villeneuve,Incendies,2010,Drama
+93,Quentin Tarantino,Inglourious Basterds,2009,Adventure
+103,Quentin Tarantino,Reservoir Dogs,1992,Crime
+104,Stanley Kubrick,Full Metal Jacket,1987,Drama
+106,James Cameron,Aliens,1986,Action
+111,Martin Scorsese,Taxi Driver,1976,Crime
+113,Stanley Kubrick,A Clockwork Orange,1971,Crime
+114,Stanley Kubrick,2001: A Space Odyssey,1968,Adventure
+115,Sergio Leone,Per qualche dollaro in più,1965,Western
+117,Billy Wilder,The Apartment,1960,Comedy
+118,Alfred Hitchcock,North by Northwest,1959,Adventure
+119,Alfred Hitchcock,Vertigo,1958,Mystery
+121,Akira Kurosawa,Ikiru,1952,Drama
+123,Billy Wilder,Double Indemnity,1944,Crime
+127,Charles Chaplin,The Kid,1921,Comedy
+145,Martin Scorsese,Shutter Island,2010,Mystery
+147,Martin Scorsese,The Wolf of Wall Street,2013,Biography
+155,Christopher Nolan,Batman Begins,2005,Action
+158,Hayao Miyazaki,Hauru no ugoku shiro,2004,Animation
+159,Ron Howard,A Beautiful Mind,2001,Biography
+165,Martin Scorsese,Casino,1995,Crime
+167,Clint Eastwood,Unforgiven,1992,Drama
+168,Steven Spielberg,Indiana Jones and the Last Crusade,1989,Action
+170,Hayao Miyazaki,Tonari no Totoro,1988,Animation
+172,Akira Kurosawa,Ran,1985,Action
+173,Martin Scorsese,Raging Bull,1980,Biography
+174,Andrei Tarkovsky,Stalker,1979,Drama
+175,Ingmar Bergman,Höstsonaten,1978,Drama
+181,Akira Kurosawa,Yôjinbô,1961,Action
+183,Billy Wilder,Some Like It Hot,1959,Comedy
+184,Ingmar Bergman,Smultronstället,1957,Drama
+185,Ingmar Bergman,Det sjunde inseglet,1957,Drama
+187,Alfred Hitchcock,Dial M for Murder,1954,Crime
+189,Akira Kurosawa,Rashômon,1950,Crime
+191,John Huston,The Treasure of the Sierra Madre,1948,Adventure
+193,Charles Chaplin,The Gold Rush,1925,Adventure
+209,Wes Anderson,The Grand Budapest Hotel,2014,Adventure
+210,David Fincher,Gone Girl,2014,Drama
+216,Ron Howard,Rush,2013,Action
+222,Denis Villeneuve,Prisoners,2013,Crime
+225,Clint Eastwood,Gran Torino,2008,Drama
+234,Clint Eastwood,Million Dollar Baby,2004,Drama
+237,Richard Linklater,Before Sunset,2004,Drama
+241,Quentin Tarantino,Kill Bill: Vol. 1,2003,Action
+243,Steven Spielberg,Catch Me If You Can,2002,Biography
+252,Joel Coen,The Big Lebowski,1998,Comedy
+255,Joel Coen,Fargo,1996,Crime
+259,Richard Linklater,Before Sunrise,1995,Drama
+262,Steven Spielberg,Jurassic Park,1993,Action
+267,Rob Reiner,Stand by Me,1986,Adventure
+270,Hayao Miyazaki,Kaze no tani no Naushika,1984,Animation
+274,Ingmar Bergman,Fanny och Alexander,1982,Drama
+275,Ridley Scott,Blade Runner,1982,Action
+276,David Lynch,The Elephant Man,1980,Biography
+280,Sidney Lumet,Network,1976,Drama
+281,Stanley Kubrick,Barry Lyndon,1975,Adventure
+282,Andrei Tarkovsky,Zerkalo,1975,Biography
+283,Roman Polanski,Chinatown,1974,Drama
+285,Ingmar Bergman,Viskningar och rop,1972,Drama
+286,Andrei Tarkovsky,Solaris,1972,Drama
+289,Ingmar Bergman,Persona,1966,Drama
+290,Andrei Tarkovsky,Andrei Rublev,1966,Biography
+294,Akira Kurosawa,Sanjuro,1962,Action
+295,John Ford,The Man Who Shot Liberty Valance,1962,Drama
+296,Andrei Tarkovsky,Ivanovo detstvo,1962,Drama
+297,Ingmar Bergman,Jungfrukällan,1960,Drama
+301,Akira Kurosawa,Kakushi-toride no san-akunin,1958,Adventure
+302,Federico Fellini,Le notti di Cabiria,1957,Drama
+303,Akira Kurosawa,Kumonosu-jô,1957,Drama
+307,Billy Wilder,Ace in the Hole,1951,Drama
+312,Alfred Hitchcock,Rebecca,1940,Drama
+318,Charles Chaplin,The Circus,1928,Comedy
+329,Ridley Scott,The Martian,2015,Adventure
+340,Denis Villeneuve,Blade Runner 2049,2017,Action
+369,Quentin Tarantino,Kill Bill: Vol. 2,2004,Action
+373,Ron Howard,Cinderella Man,2005,Biography
+385,David Lynch,The Straight Story,1999,Biography
+406,Rob Reiner,The Princess Bride,1987,Adventure
+409,Hayao Miyazaki,Tenkû no shiro Rapyuta,1986,Animation
+410,James Cameron,The Terminator,1984,Action
+412,Akira Kurosawa,Kagemusha,1980,Drama
+414,Woody Allen,Annie Hall,1977,Comedy
+415,Steven Spielberg,Jaws,1975,Adventure
+416,Sidney Lumet,Dog Day Afternoon,1975,Biography
+425,Roman Polanski,Rosemary's Baby,1968,Drama
+431,Sergio Leone,Per un pugno di dollari,1964,Action
+432,Federico Fellini,8½,1963,Drama
+435,Federico Fellini,La dolce vita,1960,Comedy
+436,Howard Hawks,Rio Bravo,1959,Action
+441,Stanley Kubrick,The Killing,1956,Crime
+443,Federico Fellini,La Strada,1954,Drama
+445,Billy Wilder,Stalag 17,1953,Comedy
+450,Alfred Hitchcock,Rope,1948,Crime
+456,John Huston,The Maltese Falcon,1941,Film-Noir
+457,John Ford,The Grapes of Wrath,1940,Drama
+469,Wes Anderson,Isle of Dogs,2018,Animation
+476,Denis Villeneuve,Arrival,2016,Drama
+478,Richard Linklater,Before Midnight,2013,Drama
+484,Martin Scorsese,The Irishman,2019,Biography
+491,Richard Linklater,Boyhood,2014,Drama
+496,Clint Eastwood,Letters from Iwo Jima,2006,Action
+499,Wes Anderson,Fantastic Mr. Fox,2009,Animation
+505,Clint Eastwood,Mystic River,2003,Crime
+506,Alfonso Cuarón,Harry Potter and the Prisoner of Azkaban,2004,Adventure
+513,Alfonso Cuarón,Children of Men,2006,Adventure
+515,David Lynch,Mulholland Dr.,2001,Drama
+526,Woody Allen,Crimes and Misdemeanors,1989,Comedy
+528,Woody Allen,Hannah and Her Sisters,1986,Comedy
+530,Rob Reiner,This Is Spinal Tap,1984,Comedy
+533,Woody Allen,Manhattan,1979,Comedy
+538,Federico Fellini,Amarcord,1973,Comedy
+549,Stanley Kubrick,Spartacus,1960,Adventure
+553,John Ford,The Searchers,1956,Adventure
+556,Alfred Hitchcock,Strangers on a Train,1951,Crime
+559,Alfred Hitchcock,Notorious,1946,Drama
+560,Howard Hawks,The Big Sleep,1946,Crime
+561,Billy Wilder,The Lost Weekend,1945,Drama
+563,Howard Hawks,His Girl Friday,1940,Comedy
+573,Christopher Nolan,Dunkirk,2017,Action
+584,Quentin Tarantino,The Hateful Eight,2015,Crime
+595,Hayao Miyazaki,Kaze tachinu,2013,Animation
+598,Wes Anderson,Moonrise Kingdom,2012,Comedy
+603,David Fincher,The Girl with the Dragon Tattoo,2011,Crime
+609,Peter Jackson,The Hobbit: The Desolation of Smaug,2013,Adventure
+618,Peter Jackson,The Hobbit: An Unexpected Journey,2012,Adventure
+622,Ridley Scott,American Gangster,2007,Biography
+623,James Cameron,Avatar,2009,Action
+628,David Fincher,The Curious Case of Benjamin Button,2008,Drama
+643,Richard Linklater,Waking Life,2001,Animation
+647,Robert Zemeckis,Cast Away,2000,Adventure
+652,James Cameron,Titanic,1997,Drama
+655,David Fincher,The Game,1997,Action
+670,Rob Reiner,Misery,1990,Drama
+672,Hayao Miyazaki,Majo no takkyûbin,1989,Animation
+675,Robert Zemeckis,Back to the Future Part II,1989,Adventure
+682,Steven Spielberg,The Color Purple,1985,Drama
+687,Martin Scorsese,The King of Comedy,1982,Comedy
+688,Steven Spielberg,E.T. the Extra-Terrestrial,1982,Family
+691,Clint Eastwood,The Outlaw Josey Wales,1976,Western
+692,John Huston,The Man Who Would Be King,1975,Adventure
+693,Francis Ford Coppola,The Conversation,1974,Drama
+709,Howard Hawks,Red River,1948,Action
+710,John Huston,Key Largo,1948,Action
+711,Howard Hawks,To Have and Have Not,1944,Adventure
+712,Alfred Hitchcock,Shadow of a Doubt,1943,Film-Noir
+713,John Ford,Stagecoach,1939,Adventure
+714,Alfred Hitchcock,The Lady Vanishes,1938,Mystery
+715,Howard Hawks,Bringing Up Baby,1938,Comedy
+718,Howard Hawks,Scarface: The Shame of the Nation,1932,Action
+720,Alfonso Cuarón,Roma,2018,Drama
+743,Woody Allen,Midnight in Paris,2011,Comedy
+745,Alfonso Cuarón,Gravity,2013,Drama
+748,David Fincher,The Social Network,2010,Biography
+756,Hayao Miyazaki,Gake no ue no Ponyo,2008,Animation
+757,Ron Howard,Frost/Nixon,2008,Biography
+759,Clint Eastwood,Changeling,2008,Biography
+760,Rob Reiner,Flipped,2010,Comedy
+767,David Fincher,Zodiac,2007,Crime
+790,Ridley Scott,Black Hawk Down,2001,Drama
+797,Joel Coen,"O Brother, Where Art Thou?",2000,Adventure
+803,Wes Anderson,Rushmore,1998,Comedy
+813,Alfonso Cuarón,A Little Princess,1995,Drama
+822,Hayao Miyazaki,Kurenai no buta,1992,Animation
+824,Rob Reiner,A Few Good Men,1992,Drama
+826,Joel Coen,Barton Fink,1991,Comedy
+827,Joel Coen,Miller's Crossing,1990,Crime
+828,Robert Zemeckis,Who Framed Roger Rabbit,1988,Animation
+832,Steven Spielberg,Empire of the Sun,1987,Action
+834,David Lynch,Blue Velvet,1986,Drama
+835,Woody Allen,The Purple Rose of Cairo,1985,Comedy
+836,Martin Scorsese,After Hours,1985,Comedy
+837,Woody Allen,Zelig,1983,Comedy
+838,Sidney Lumet,The Verdict,1982,Drama
+843,Hayao Miyazaki,Rupan sansei: Kariosutoro no shiro,1979,Animation
+845,Roman Polanski,Le locataire,1976,Drama
+846,Woody Allen,Love and Death,1975,Comedy
+849,Sidney Lumet,Serpico,1973,Biography
+859,Roman Polanski,Repulsion,1965,Drama
+862,Alfred Hitchcock,The Birds,1963,Drama
+870,Billy Wilder,Sabrina,1954,Comedy
+871,John Ford,The Quiet Man,1952,Comedy
+873,John Huston,The African Queen,1951,Adventure
+879,Quentin Tarantino,Once Upon a Time... in Hollywood,2019,Comedy
+890,Steven Spielberg,Bridge of Spies,2015,Drama
+893,Denis Villeneuve,Sicario,2015,Action
+929,Woody Allen,Match Point,2005,Drama
+945,Wes Anderson,The Royal Tenenbaums,2001,Comedy
+946,Alfonso Cuarón,Y tu mamá también,2001,Drama
+951,Steven Spielberg,Minority Report,2002,Action
+961,David Lynch,Lost Highway,1997,Mystery
+965,Clint Eastwood,The Bridges of Madison County,1995,Drama
+966,Ron Howard,Apollo 13,1995,Adventure
+969,Richard Linklater,Dazed and Confused,1993,Comedy
+974,Francis Ford Coppola,The Godfather: Part III,1990,Crime
+975,Rob Reiner,When Harry Met Sally...,1989,Comedy
+980,Joel Coen,Blood Simple,1984,Crime
+988,Steven Spielberg,Close Encounters of the Third Kind,1977,Drama
+990,Sergio Leone,Giù la testa,1971,Drama
+998,Alfred Hitchcock,Lifeboat,1944,Drama
+999,Alfred Hitchcock,The 39 Steps,1935,Crime
